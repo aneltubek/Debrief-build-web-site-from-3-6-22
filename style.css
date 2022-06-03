@@ -69,3 +69,12 @@ width: 400px;
 justify-content: end;
 
 } 
+
+.form {
+ height: 100px;
+ border : 2px;
+}
+
+h3 {
+    font-size: 20px;
+}
